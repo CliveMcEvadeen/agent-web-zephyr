@@ -1,0 +1,1587 @@
+{
+  "role": "WebArea",
+  "name": "HTML Tutorial",
+  "children": [
+    {
+      "name": "Home link",
+      "mmid": "80",
+      "tag": "a"
+    },
+    {
+      "role": "button",
+      "name": "Tutorials ",
+      "mmid": "83",
+      "tag": "a"
+    },
+    {
+      "role": "button",
+      "name": "Exercises ",
+      "mmid": "86",
+      "tag": "a"
+    },
+    {
+      "role": "button",
+      "name": "Certificates ",
+      "mmid": "89",
+      "tag": "a"
+    },
+    {
+      "role": "button",
+      "name": "Services ",
+      "mmid": "92",
+      "tag": "a"
+    },
+    {
+      "role": "text",
+      "name": "Search field"
+    },
+    {
+      "role": "textbox",
+      "name": "Search field",
+      "mmid": "101",
+      "tag": "input",
+      "tag_type": "text",
+      "placeholder": "Search..."
+    },
+    {
+      "role": "button",
+      "name": "Button to search",
+      "mmid": "102",
+      "tag": "div"
+    },
+    {
+      "role": "button",
+      "name": "Toggle light/dark mode",
+      "description": "\ue80b",
+      "mmid": "112",
+      "tag": "a"
+    },
+    {
+      "name": "Login to your account",
+      "mmid": "115",
+      "tag": "a",
+      "text": "Log in"
+    },
+    {
+      "name": "Sign Up to Improve Your Learning Experience",
+      "mmid": "116",
+      "tag": "a"
+    },
+    {
+      "name": "W3Schools Certificates",
+      "mmid": "127",
+      "tag": "a",
+      "text": " Get Certified"
+    },
+    {
+      "name": "Get Your Own Website With W3Schools Spaces",
+      "mmid": "130",
+      "tag": "a"
+    },
+    {
+      "name": "Become a PLUS user and unlock powerful features",
+      "mmid": "133",
+      "tag": "a",
+      "text": " Plus"
+    },
+    {
+      "name": "Contact us about W3Schools Academy for educational institutions",
+      "mmid": "138",
+      "tag": "a",
+      "text": " For Teachers"
+    },
+    {
+      "name": "HTML",
+      "mmid": "1253",
+      "tag": "a"
+    },
+    {
+      "name": "CSS",
+      "mmid": "1254",
+      "tag": "a"
+    },
+    {
+      "name": "JAVASCRIPT",
+      "mmid": "1255",
+      "tag": "a"
+    },
+    {
+      "name": "SQL",
+      "mmid": "1256",
+      "tag": "a"
+    },
+    {
+      "name": "PYTHON",
+      "mmid": "1257",
+      "tag": "a"
+    },
+    {
+      "name": "JAVA",
+      "mmid": "1258",
+      "tag": "a"
+    },
+    {
+      "name": "PHP",
+      "mmid": "1259",
+      "tag": "a"
+    },
+    {
+      "name": "HOW TO",
+      "mmid": "1260",
+      "tag": "a"
+    },
+    {
+      "name": "W3.CSS",
+      "mmid": "1261",
+      "tag": "a"
+    },
+    {
+      "name": "C",
+      "mmid": "1262",
+      "tag": "a"
+    },
+    {
+      "name": "C++",
+      "mmid": "1263",
+      "tag": "a"
+    },
+    {
+      "name": "C#",
+      "mmid": "1264",
+      "tag": "a"
+    },
+    {
+      "name": "BOOTSTRAP",
+      "mmid": "1265",
+      "tag": "a"
+    },
+    {
+      "name": "REACT",
+      "mmid": "1266",
+      "tag": "a"
+    },
+    {
+      "name": "MYSQL",
+      "mmid": "1267",
+      "tag": "a"
+    },
+    {
+      "name": "JQUERY",
+      "mmid": "1268",
+      "tag": "a"
+    },
+    {
+      "name": "EXCEL",
+      "mmid": "1269",
+      "tag": "a"
+    },
+    {
+      "name": "XML",
+      "mmid": "1270",
+      "tag": "a"
+    },
+    {
+      "name": "DJANGO",
+      "mmid": "1271",
+      "tag": "a"
+    },
+    {
+      "name": "NUMPY",
+      "mmid": "1272",
+      "tag": "a"
+    },
+    {
+      "name": "PANDAS",
+      "mmid": "1273",
+      "tag": "a"
+    },
+    {
+      "name": "NODEJS",
+      "mmid": "1274",
+      "tag": "a"
+    },
+    {
+      "name": "R",
+      "mmid": "1275",
+      "tag": "a"
+    },
+    {
+      "name": "TYPESCRIPT",
+      "mmid": "1276",
+      "tag": "a"
+    },
+    {
+      "name": "ANGULAR",
+      "mmid": "1277",
+      "tag": "a"
+    },
+    {
+      "name": "GIT",
+      "mmid": "1278",
+      "tag": "a"
+    },
+    {
+      "name": "POSTGRESQL",
+      "mmid": "1279",
+      "tag": "a"
+    },
+    {
+      "name": "MONGODB",
+      "mmid": "1280",
+      "tag": "a"
+    },
+    {
+      "name": "ASP",
+      "mmid": "1281",
+      "tag": "a"
+    },
+    {
+      "name": "AI",
+      "mmid": "1282",
+      "tag": "a"
+    },
+    {
+      "name": "GO",
+      "mmid": "1283",
+      "tag": "a"
+    },
+    {
+      "name": "KOTLIN",
+      "mmid": "1284",
+      "tag": "a"
+    },
+    {
+      "name": "SASS",
+      "mmid": "1285",
+      "tag": "a"
+    },
+    {
+      "name": "VUE",
+      "mmid": "1286",
+      "tag": "a"
+    },
+    {
+      "name": "DSA",
+      "mmid": "1287",
+      "tag": "a"
+    },
+    {
+      "name": "GEN AI",
+      "mmid": "1288",
+      "tag": "a"
+    },
+    {
+      "name": "SCIPY",
+      "mmid": "1289",
+      "tag": "a"
+    },
+    {
+      "name": "AWS",
+      "mmid": "1290",
+      "tag": "a"
+    },
+    {
+      "name": "CYBERSECURITY",
+      "mmid": "1291",
+      "tag": "a"
+    },
+    {
+      "name": "DATA SCIENCE",
+      "mmid": "1292",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Tutorial",
+      "mmid": "1301",
+      "tag": "h2"
+    },
+    {
+      "name": "HTML HOME",
+      "mmid": "1303",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Introduction",
+      "mmid": "1304",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Editors",
+      "mmid": "1305",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Basic",
+      "mmid": "1306",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Elements",
+      "mmid": "1307",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Attributes",
+      "mmid": "1308",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Headings",
+      "mmid": "1309",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Paragraphs",
+      "mmid": "1310",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Styles",
+      "mmid": "1311",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Formatting",
+      "mmid": "1312",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Quotations",
+      "mmid": "1313",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Comments",
+      "mmid": "1314",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Colors \ue809",
+      "mmid": "1315",
+      "tag": "a"
+    },
+    {
+      "name": "HTML CSS",
+      "mmid": "1322",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Links \ue809",
+      "mmid": "1323",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Images \ue809",
+      "mmid": "1329",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Favicon",
+      "mmid": "1336",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Page Title",
+      "mmid": "1337",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Tables \ue809",
+      "mmid": "1338",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Lists \ue809",
+      "mmid": "1349",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Block & Inline",
+      "mmid": "1356",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Div",
+      "mmid": "1357",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Classes",
+      "mmid": "1358",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Id",
+      "mmid": "1359",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Iframes",
+      "mmid": "1360",
+      "tag": "a"
+    },
+    {
+      "name": "HTML JavaScript",
+      "mmid": "1361",
+      "tag": "a"
+    },
+    {
+      "name": "HTML File Paths",
+      "mmid": "1362",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Head",
+      "mmid": "1363",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Layout",
+      "mmid": "1364",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Responsive",
+      "mmid": "1365",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Computercode",
+      "mmid": "1366",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Semantics",
+      "mmid": "1367",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Style Guide",
+      "mmid": "1368",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Entities",
+      "mmid": "1369",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Symbols",
+      "mmid": "1370",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Emojis",
+      "mmid": "1371",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Charsets",
+      "mmid": "1372",
+      "tag": "a"
+    },
+    {
+      "name": "HTML URL Encode",
+      "mmid": "1373",
+      "tag": "a"
+    },
+    {
+      "name": "HTML vs. XHTML",
+      "mmid": "1374",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Forms",
+      "mmid": "1376",
+      "tag": "h2"
+    },
+    {
+      "name": "HTML Forms",
+      "mmid": "1378",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Form Attributes",
+      "mmid": "1379",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Form Elements",
+      "mmid": "1380",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Input Types",
+      "mmid": "1381",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Input Attributes",
+      "mmid": "1382",
+      "tag": "a"
+    },
+    {
+      "name": "Input Form Attributes",
+      "mmid": "1383",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Graphics",
+      "mmid": "1385",
+      "tag": "h2"
+    },
+    {
+      "name": "HTML Canvas",
+      "mmid": "1387",
+      "tag": "a"
+    },
+    {
+      "name": "HTML SVG",
+      "mmid": "1388",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Media",
+      "mmid": "1390",
+      "tag": "h2"
+    },
+    {
+      "name": "HTML Media",
+      "mmid": "1392",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Video",
+      "mmid": "1393",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Audio",
+      "mmid": "1394",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Plug-ins",
+      "mmid": "1395",
+      "tag": "a"
+    },
+    {
+      "name": "HTML YouTube",
+      "mmid": "1396",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "HTML APIs",
+      "mmid": "1398",
+      "tag": "h2"
+    },
+    {
+      "name": "HTML Geolocation",
+      "mmid": "1400",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Drag/Drop",
+      "mmid": "1401",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Web Storage",
+      "mmid": "1402",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Web Workers",
+      "mmid": "1403",
+      "tag": "a"
+    },
+    {
+      "name": "HTML SSE",
+      "mmid": "1404",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Examples",
+      "mmid": "1406",
+      "tag": "h2"
+    },
+    {
+      "name": "HTML Examples",
+      "mmid": "1408",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Editor",
+      "mmid": "1409",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Quiz",
+      "mmid": "1410",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Exercises",
+      "mmid": "1411",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Website",
+      "mmid": "1412",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Interview Prep",
+      "mmid": "1413",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Bootcamp",
+      "mmid": "1414",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Certificate",
+      "mmid": "1415",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Summary",
+      "mmid": "1416",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Accessibility",
+      "mmid": "1417",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "HTML References",
+      "mmid": "1419",
+      "tag": "h2"
+    },
+    {
+      "name": "HTML Tag List",
+      "mmid": "1421",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Attributes",
+      "mmid": "1422",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Global Attributes",
+      "mmid": "1423",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Browser Support",
+      "mmid": "1424",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Events",
+      "mmid": "1425",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Colors",
+      "mmid": "1426",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Canvas",
+      "mmid": "1427",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Audio/Video",
+      "mmid": "1428",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Doctypes",
+      "mmid": "1429",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Character Sets",
+      "mmid": "1430",
+      "tag": "a"
+    },
+    {
+      "name": "HTML URL Encode",
+      "mmid": "1431",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Lang Codes",
+      "mmid": "1432",
+      "tag": "a"
+    },
+    {
+      "name": "HTTP Messages",
+      "mmid": "1433",
+      "tag": "a"
+    },
+    {
+      "name": "HTTP Methods",
+      "mmid": "1434",
+      "tag": "a"
+    },
+    {
+      "name": "PX to EM Converter",
+      "mmid": "1435",
+      "tag": "a"
+    },
+    {
+      "name": "Keyboard Shortcuts",
+      "mmid": "1436",
+      "tag": "a"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "mmid": 1445
+    },
+    {
+      "role": "heading",
+      "name": "HTML Tutorial",
+      "mmid": "1446",
+      "tag": "h1"
+    },
+    {
+      "name": "\u276e Home",
+      "mmid": "1449",
+      "tag": "a"
+    },
+    {
+      "name": "Next \u276f",
+      "mmid": "1450",
+      "tag": "a"
+    },
+    {
+      "role": "text",
+      "name": "HTML is the standard markup language for Web pages."
+    },
+    {
+      "role": "text",
+      "name": "With HTML you can create your own Website."
+    },
+    {
+      "role": "text",
+      "name": "HTML is easy to learn - You will enjoy it!"
+    },
+    {
+      "name": "Study our free HTML Tutorial \u00bb",
+      "mmid": "1455",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "Easy Learning with HTML \"Try it Yourself\"",
+      "mmid": "1458",
+      "tag": "h2"
+    },
+    {
+      "role": "text",
+      "name": "With our \"Try it Yourself\" editor, you can edit the HTML code and view the result:"
+    },
+    {
+      "role": "heading",
+      "name": "Example",
+      "mmid": "1461",
+      "tag": "h3"
+    },
+    {
+      "role": "text",
+      "name": "!DOCTYPE"
+    },
+    {
+      "role": "text",
+      "name": " html"
+    },
+    {
+      "role": "text",
+      "name": "html"
+    },
+    {
+      "role": "text",
+      "name": "head"
+    },
+    {
+      "role": "text",
+      "name": "title"
+    },
+    {
+      "role": "text",
+      "name": "Page Title"
+    },
+    {
+      "role": "text",
+      "name": "/title"
+    },
+    {
+      "role": "text",
+      "name": "/head"
+    },
+    {
+      "role": "text",
+      "name": "body"
+    },
+    {
+      "role": "text",
+      "name": "This is a Heading"
+    },
+    {
+      "role": "text",
+      "name": "/h1"
+    },
+    {
+      "role": "text",
+      "name": "This is a paragraph."
+    },
+    {
+      "role": "text",
+      "name": "/body"
+    },
+    {
+      "role": "text",
+      "name": "/html"
+    },
+    {
+      "name": "Try it Yourself \u00bb",
+      "mmid": "1514",
+      "tag": "a"
+    },
+    {
+      "role": "text",
+      "name": "Click on the \"Try it Yourself\" button to see how it works."
+    },
+    {
+      "role": "heading",
+      "name": "HTML Examples",
+      "mmid": "1518",
+      "tag": "h2"
+    },
+    {
+      "role": "text",
+      "name": "In this HTML tutorial, you will find more than 200 examples. With our online \"Try it Yourself\" editor, you can edit and test each example yourself!"
+    },
+    {
+      "name": "Go to HTML Examples!",
+      "mmid": "1521",
+      "tag": "a"
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "mmid": 1527
+    },
+    {
+      "role": "heading",
+      "name": "HTML Exercises",
+      "mmid": "1529",
+      "tag": "h2"
+    },
+    {
+      "role": "text",
+      "name": "This HTML tutorial also contains nearly 100 HTML exercises."
+    },
+    {
+      "role": "heading",
+      "name": "Test Yourself With Exercises",
+      "mmid": "1532",
+      "tag": "h2"
+    },
+    {
+      "role": "heading",
+      "name": "Exercise:",
+      "mmid": "1534",
+      "tag": "h2"
+    },
+    {
+      "role": "text",
+      "name": "Add a \"tooltip\" to the paragraph below with the text \"About W3Schools\"."
+    },
+    {
+      "role": "textbox",
+      "name": "ex1",
+      "mmid": "1537",
+      "tag": "input",
+      "tag_type": "text"
+    },
+    {
+      "role": "text",
+      "name": "=\"About W3Schools\">W3Schools is a web developer's site.</p>"
+    },
+    {
+      "name": "Submit Answer \u00bb",
+      "mmid": "1539",
+      "tag": "button"
+    },
+    {
+      "name": "Start the Exercise",
+      "mmid": "1541",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Quiz Test",
+      "mmid": "1543",
+      "tag": "h2"
+    },
+    {
+      "role": "text",
+      "name": "Test your HTML skills with our HTML Quiz!"
+    },
+    {
+      "name": "Start HTML Quiz!",
+      "mmid": "1546",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "My Learning",
+      "mmid": "1549",
+      "tag": "h2"
+    },
+    {
+      "role": "text",
+      "name": "Track your progress with the free \"My Learning\" program here at W3Schools."
+    },
+    {
+      "role": "text",
+      "name": "Log in to your account, and start earning points!"
+    },
+    {
+      "role": "text",
+      "name": "This is an optional feature. You can study at W3Schools without using My Learning."
+    },
+    {
+      "role": "link",
+      "name": "Track your progress with at W3Schools.com",
+      "mmid": 1553
+    },
+    {
+      "role": "heading",
+      "name": "HTML References",
+      "mmid": "1559",
+      "tag": "h2"
+    },
+    {
+      "role": "text",
+      "name": "At W3Schools you will find complete references about HTML elements, attributes, events, color names, entities, character-sets, URL encoding, language codes, HTTP messages, browser support, and more:"
+    },
+    {
+      "name": "HTML Elements",
+      "mmid": "1563",
+      "tag": "a"
+    },
+    {
+      "name": "Browser Support",
+      "mmid": "1565",
+      "tag": "a"
+    },
+    {
+      "name": "Attributes",
+      "mmid": "1567",
+      "tag": "a"
+    },
+    {
+      "name": "Global Attributes",
+      "mmid": "1569",
+      "tag": "a"
+    },
+    {
+      "name": "Event Attributes",
+      "mmid": "1571",
+      "tag": "a"
+    },
+    {
+      "name": "Color Names",
+      "mmid": "1573",
+      "tag": "a"
+    },
+    {
+      "name": "Canvas",
+      "mmid": "1575",
+      "tag": "a"
+    },
+    {
+      "name": "Audio/Video DOM",
+      "mmid": "1577",
+      "tag": "a"
+    },
+    {
+      "name": "Character Sets",
+      "mmid": "1579",
+      "tag": "a"
+    },
+    {
+      "name": "URL Encoding",
+      "mmid": "1581",
+      "tag": "a"
+    },
+    {
+      "name": "Language Codes",
+      "mmid": "1583",
+      "tag": "a"
+    },
+    {
+      "name": "Country Codes",
+      "mmid": "1585",
+      "tag": "a"
+    },
+    {
+      "name": "HTTP Messages",
+      "mmid": "1587",
+      "tag": "a"
+    },
+    {
+      "name": "Px to Em Converter",
+      "mmid": "1589",
+      "tag": "a"
+    },
+    {
+      "name": "Keyboard Shortcuts",
+      "mmid": "1591",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "Kickstart your career",
+      "mmid": "1595",
+      "tag": "h2"
+    },
+    {
+      "role": "text",
+      "name": "Get certified by completing "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": "HTML"
+    },
+    {
+      "role": "text",
+      "name": " course"
+    },
+    {
+      "name": "Get certified",
+      "mmid": "1599",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "Video: HTML for Beginners",
+      "mmid": "1639",
+      "tag": "h2"
+    },
+    {
+      "role": "link",
+      "name": "Tutorial on YouTube Tutorial on YouTube",
+      "mmid": 1640
+    },
+    {
+      "name": "\u276e Home",
+      "mmid": "1654",
+      "tag": "a"
+    },
+    {
+      "name": "Next \u276f",
+      "mmid": "1655",
+      "tag": "a"
+    },
+    {
+      "role": "text",
+      "name": "W3schools Pathfinder"
+    },
+    {
+      "role": "text",
+      "name": "Track your progress - it's free!"
+    },
+    {
+      "name": "Login to your account",
+      "mmid": "1679",
+      "tag": "a",
+      "text": "Log in"
+    },
+    {
+      "name": "Sign Up to Improve Your Learning Experience",
+      "mmid": "1680",
+      "tag": "a"
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "mmid": 1687
+    },
+    {
+      "name": "Get Certified",
+      "mmid": "1690",
+      "tag": "a"
+    },
+    {
+      "name": "COLOR PICKER",
+      "mmid": "1698",
+      "tag": "a"
+    },
+    {
+      "role": "link",
+      "name": "colorpicker",
+      "mmid": 1699
+    },
+    {
+      "role": "link",
+      "name": "\ue83f",
+      "description": "W3Schools on YouTube",
+      "mmid": 1705
+    },
+    {
+      "role": "link",
+      "name": "\uf30c",
+      "description": "W3Schools on LinkedIn",
+      "mmid": 1707
+    },
+    {
+      "role": "link",
+      "name": "\ue807",
+      "description": "Join the W3schools community on Discord",
+      "mmid": 1709
+    },
+    {
+      "role": "link",
+      "name": "\ue806",
+      "description": "W3Schools on Facebook",
+      "mmid": 1711
+    },
+    {
+      "role": "link",
+      "name": "\uf16d",
+      "description": "W3Schools on Instagram",
+      "mmid": 1713
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "mmid": 1724
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "mmid": 1734
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "name": "W3Schools.com",
+      "mmid": "1744",
+      "tag": "a"
+    },
+    {
+      "name": "PLUS",
+      "mmid": "1747",
+      "tag": "a"
+    },
+    {
+      "name": "SPACES",
+      "mmid": "1749",
+      "tag": "a"
+    },
+    {
+      "name": "GET CERTIFIED",
+      "mmid": "1751",
+      "tag": "a"
+    },
+    {
+      "name": "FOR TEACHERS",
+      "mmid": "1753",
+      "tag": "a"
+    },
+    {
+      "name": "FOR BUSINESS",
+      "mmid": "1755",
+      "tag": "a"
+    },
+    {
+      "name": "CONTACT US",
+      "mmid": "1757",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "Top Tutorials",
+      "mmid": "1769",
+      "tag": "h5"
+    },
+    {
+      "name": "HTML Tutorial",
+      "mmid": "1770",
+      "tag": "a"
+    },
+    {
+      "name": "CSS Tutorial",
+      "mmid": "1772",
+      "tag": "a"
+    },
+    {
+      "name": "JavaScript Tutorial",
+      "mmid": "1774",
+      "tag": "a"
+    },
+    {
+      "name": "How To Tutorial",
+      "mmid": "1776",
+      "tag": "a"
+    },
+    {
+      "name": "SQL Tutorial",
+      "mmid": "1778",
+      "tag": "a"
+    },
+    {
+      "name": "Python Tutorial",
+      "mmid": "1780",
+      "tag": "a"
+    },
+    {
+      "name": "W3.CSS Tutorial",
+      "mmid": "1782",
+      "tag": "a"
+    },
+    {
+      "name": "Bootstrap Tutorial",
+      "mmid": "1784",
+      "tag": "a"
+    },
+    {
+      "name": "PHP Tutorial",
+      "mmid": "1786",
+      "tag": "a"
+    },
+    {
+      "name": "Java Tutorial",
+      "mmid": "1788",
+      "tag": "a"
+    },
+    {
+      "name": "C++ Tutorial",
+      "mmid": "1790",
+      "tag": "a"
+    },
+    {
+      "name": "jQuery Tutorial",
+      "mmid": "1792",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "Top References",
+      "mmid": "1795",
+      "tag": "h5"
+    },
+    {
+      "name": "HTML Reference",
+      "mmid": "1796",
+      "tag": "a"
+    },
+    {
+      "name": "CSS Reference",
+      "mmid": "1798",
+      "tag": "a"
+    },
+    {
+      "name": "JavaScript Reference",
+      "mmid": "1800",
+      "tag": "a"
+    },
+    {
+      "name": "SQL Reference",
+      "mmid": "1802",
+      "tag": "a"
+    },
+    {
+      "name": "Python Reference",
+      "mmid": "1804",
+      "tag": "a"
+    },
+    {
+      "name": "W3.CSS Reference",
+      "mmid": "1806",
+      "tag": "a"
+    },
+    {
+      "name": "Bootstrap Reference",
+      "mmid": "1808",
+      "tag": "a"
+    },
+    {
+      "name": "PHP Reference",
+      "mmid": "1810",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Colors",
+      "mmid": "1812",
+      "tag": "a"
+    },
+    {
+      "name": "Java Reference",
+      "mmid": "1814",
+      "tag": "a"
+    },
+    {
+      "name": "Angular Reference",
+      "mmid": "1816",
+      "tag": "a"
+    },
+    {
+      "name": "jQuery Reference",
+      "mmid": "1818",
+      "tag": "a"
+    },
+    {
+      "role": "heading",
+      "name": "Top Examples",
+      "mmid": "1821",
+      "tag": "h5"
+    },
+    {
+      "name": "HTML Examples",
+      "mmid": "1822",
+      "tag": "a"
+    },
+    {
+      "name": "CSS Examples",
+      "mmid": "1824",
+      "tag": "a"
+    },
+    {
+      "name": "JavaScript Examples",
+      "mmid": "1826",
+      "tag": "a"
+    },
+    {
+      "name": "How To Examples",
+      "mmid": "1828",
+      "tag": "a"
+    },
+    {
+      "name": "SQL Examples",
+      "mmid": "1830",
+      "tag": "a"
+    },
+    {
+      "name": "Python Examples",
+      "mmid": "1832",
+      "tag": "a"
+    },
+    {
+      "name": "W3.CSS Examples",
+      "mmid": "1834",
+      "tag": "a"
+    },
+    {
+      "name": "Bootstrap Examples",
+      "mmid": "1836",
+      "tag": "a"
+    },
+    {
+      "name": "PHP Examples",
+      "mmid": "1838",
+      "tag": "a"
+    },
+    {
+      "name": "Java Examples",
+      "mmid": "1840",
+      "tag": "a"
+    },
+    {
+      "name": "XML Examples",
+      "mmid": "1842",
+      "tag": "a"
+    },
+    {
+      "name": "jQuery Examples",
+      "mmid": "1844",
+      "tag": "a"
+    },
+    {
+      "name": "Get Certified",
+      "mmid": "1847",
+      "tag": "a"
+    },
+    {
+      "name": "HTML Certificate",
+      "mmid": "1849",
+      "tag": "a"
+    },
+    {
+      "name": "CSS Certificate",
+      "mmid": "1851",
+      "tag": "a"
+    },
+    {
+      "name": "JavaScript Certificate",
+      "mmid": "1853",
+      "tag": "a"
+    },
+    {
+      "name": "Front End Certificate",
+      "mmid": "1855",
+      "tag": "a"
+    },
+    {
+      "name": "SQL Certificate",
+      "mmid": "1857",
+      "tag": "a"
+    },
+    {
+      "name": "Python Certificate",
+      "mmid": "1859",
+      "tag": "a"
+    },
+    {
+      "name": "PHP Certificate",
+      "mmid": "1861",
+      "tag": "a"
+    },
+    {
+      "name": "jQuery Certificate",
+      "mmid": "1863",
+      "tag": "a"
+    },
+    {
+      "name": "Java Certificate",
+      "mmid": "1865",
+      "tag": "a"
+    },
+    {
+      "name": "C++ Certificate",
+      "mmid": "1867",
+      "tag": "a"
+    },
+    {
+      "name": "C# Certificate",
+      "mmid": "1869",
+      "tag": "a"
+    },
+    {
+      "name": "XML Certificate",
+      "mmid": "1871",
+      "tag": "a"
+    },
+    {
+      "role": "link",
+      "name": "\ue83f",
+      "description": "W3Schools on YouTube",
+      "mmid": 1874
+    },
+    {
+      "name": "\uf30c",
+      "mmid": "1876",
+      "tag": "a"
+    },
+    {
+      "name": "\ue807",
+      "mmid": "1878",
+      "tag": "a"
+    },
+    {
+      "name": "\ue806",
+      "mmid": "1880",
+      "tag": "a"
+    },
+    {
+      "name": "\uf16d",
+      "mmid": "1882",
+      "tag": "a"
+    },
+    {
+      "name": "FORUM",
+      "mmid": "1885",
+      "tag": "a"
+    },
+    {
+      "name": "ABOUT",
+      "mmid": "1886",
+      "tag": "a"
+    },
+    {
+      "name": "ACADEMY",
+      "mmid": "1887",
+      "tag": "a"
+    },
+    {
+      "role": "text",
+      "name": "W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning."
+    },
+    {
+      "role": "text",
+      "name": " Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness"
+    },
+    {
+      "role": "text",
+      "name": " of all content. While using W3Schools, you agree to have read and accepted our "
+    },
+    {
+      "name": "terms of use",
+      "mmid": "1891",
+      "tag": "a"
+    },
+    {
+      "name": "cookie and privacy policy",
+      "mmid": "1892",
+      "tag": "a"
+    },
+    {
+      "name": "Copyright 1999-2024",
+      "mmid": "1895",
+      "tag": "a"
+    },
+    {
+      "role": "text",
+      "name": " by Refsnes Data. All Rights Reserved. "
+    },
+    {
+      "name": "W3Schools is Powered by W3.CSS",
+      "mmid": "1896",
+      "tag": "a"
+    }
+  ]
+}

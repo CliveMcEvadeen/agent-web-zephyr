@@ -1,0 +1,2282 @@
+{
+  "role": "WebArea",
+  "name": "HTML Tutorial",
+  "children": [
+    {
+      "role": "link",
+      "name": "Home link",
+      "description": "Home",
+      "keyshortcuts": "80"
+    },
+    {
+      "role": "button",
+      "name": "Tutorials ",
+      "description": "Tutorials and References",
+      "keyshortcuts": "83"
+    },
+    {
+      "role": "button",
+      "name": "Exercises ",
+      "description": "Exercises and Quizzes",
+      "keyshortcuts": "86"
+    },
+    {
+      "role": "button",
+      "name": "Certificates ",
+      "keyshortcuts": "89"
+    },
+    {
+      "role": "button",
+      "name": "Services ",
+      "description": "Our Services",
+      "keyshortcuts": "92"
+    },
+    {
+      "role": "text",
+      "name": "Search field"
+    },
+    {
+      "role": "textbox",
+      "name": "Search field",
+      "keyshortcuts": "101"
+    },
+    {
+      "role": "button",
+      "name": "Button to search",
+      "keyshortcuts": "102"
+    },
+    {
+      "role": "button",
+      "name": "Toggle light/dark mode",
+      "description": "Toggle light/dark mode",
+      "keyshortcuts": "112"
+    },
+    {
+      "role": "link",
+      "name": "Login to your account",
+      "description": "Login to your account",
+      "keyshortcuts": "115"
+    },
+    {
+      "role": "link",
+      "name": "Sign Up to Improve Your Learning Experience",
+      "description": "Sign Up to Improve Your Learning Experience",
+      "keyshortcuts": "116"
+    },
+    {
+      "role": "link",
+      "name": "W3Schools Certificates",
+      "description": "W3Schools Certificates",
+      "keyshortcuts": "127"
+    },
+    {
+      "role": "link",
+      "name": "Get Your Own Website With W3Schools Spaces",
+      "description": "Get Your Own Website With W3Schools Spaces",
+      "keyshortcuts": "130"
+    },
+    {
+      "role": "link",
+      "name": "Become a PLUS user and unlock powerful features",
+      "description": "Become a PLUS user and unlock powerful features",
+      "keyshortcuts": "133"
+    },
+    {
+      "role": "link",
+      "name": "Contact us about W3Schools Academy for educational institutions",
+      "description": "Contact us about W3Schools Academy for educational institutions",
+      "keyshortcuts": "138"
+    },
+    {
+      "role": "link",
+      "name": "HTML",
+      "description": "HTML Tutorial",
+      "keyshortcuts": "1253"
+    },
+    {
+      "role": "link",
+      "name": "CSS",
+      "description": "CSS Tutorial",
+      "keyshortcuts": "1254"
+    },
+    {
+      "role": "link",
+      "name": "JAVASCRIPT",
+      "description": "JavaScript Tutorial",
+      "keyshortcuts": "1255"
+    },
+    {
+      "role": "link",
+      "name": "SQL",
+      "description": "SQL Tutorial",
+      "keyshortcuts": "1256"
+    },
+    {
+      "role": "link",
+      "name": "PYTHON",
+      "description": "Python Tutorial",
+      "keyshortcuts": "1257"
+    },
+    {
+      "role": "link",
+      "name": "JAVA",
+      "description": "Java Tutorial",
+      "keyshortcuts": "1258"
+    },
+    {
+      "role": "link",
+      "name": "PHP",
+      "description": "PHP Tutorial",
+      "keyshortcuts": "1259"
+    },
+    {
+      "role": "link",
+      "name": "HOW TO",
+      "description": "How to",
+      "keyshortcuts": "1260"
+    },
+    {
+      "role": "link",
+      "name": "W3.CSS",
+      "description": "W3.CSS Tutorial",
+      "keyshortcuts": "1261"
+    },
+    {
+      "role": "link",
+      "name": "C",
+      "description": "C Tutorial",
+      "keyshortcuts": "1262"
+    },
+    {
+      "role": "link",
+      "name": "C++",
+      "description": "C++ Tutorial",
+      "keyshortcuts": "1263"
+    },
+    {
+      "role": "link",
+      "name": "C#",
+      "description": "C# Tutorial",
+      "keyshortcuts": "1264"
+    },
+    {
+      "role": "link",
+      "name": "BOOTSTRAP",
+      "description": "Bootstrap Tutorial",
+      "keyshortcuts": "1265"
+    },
+    {
+      "role": "link",
+      "name": "REACT",
+      "description": "React Tutorial",
+      "keyshortcuts": "1266"
+    },
+    {
+      "role": "link",
+      "name": "MYSQL",
+      "description": "MySQL Tutorial",
+      "keyshortcuts": "1267"
+    },
+    {
+      "role": "link",
+      "name": "JQUERY",
+      "description": "JQuery Tutorial",
+      "keyshortcuts": "1268"
+    },
+    {
+      "role": "link",
+      "name": "EXCEL",
+      "description": "Excel Tutorial",
+      "keyshortcuts": "1269"
+    },
+    {
+      "role": "link",
+      "name": "XML",
+      "description": "XML Tutorial",
+      "keyshortcuts": "1270"
+    },
+    {
+      "role": "link",
+      "name": "DJANGO",
+      "description": "Django Tutorial",
+      "keyshortcuts": "1271"
+    },
+    {
+      "role": "link",
+      "name": "NUMPY",
+      "description": "NumPy Tutorial",
+      "keyshortcuts": "1272"
+    },
+    {
+      "role": "link",
+      "name": "PANDAS",
+      "description": "Pandas Tutorial",
+      "keyshortcuts": "1273"
+    },
+    {
+      "role": "link",
+      "name": "NODEJS",
+      "description": "Node.js Tutorial",
+      "keyshortcuts": "1274"
+    },
+    {
+      "role": "link",
+      "name": "R",
+      "description": "R Tutorial",
+      "keyshortcuts": "1275"
+    },
+    {
+      "role": "link",
+      "name": "TYPESCRIPT",
+      "description": "TypeScript Tutorial",
+      "keyshortcuts": "1276"
+    },
+    {
+      "role": "link",
+      "name": "ANGULAR",
+      "description": "Angular.js Tutorial",
+      "keyshortcuts": "1277"
+    },
+    {
+      "role": "link",
+      "name": "GIT",
+      "description": "Git Tutorial",
+      "keyshortcuts": "1278"
+    },
+    {
+      "role": "link",
+      "name": "POSTGRESQL",
+      "description": "PostgreSQL Tutorial",
+      "keyshortcuts": "1279"
+    },
+    {
+      "role": "link",
+      "name": "MONGODB",
+      "description": "MongoDB Tutorial",
+      "keyshortcuts": "1280"
+    },
+    {
+      "role": "link",
+      "name": "ASP",
+      "description": "ASP Tutorial",
+      "keyshortcuts": "1281"
+    },
+    {
+      "role": "link",
+      "name": "AI",
+      "description": "A.I. Tutorial",
+      "keyshortcuts": "1282"
+    },
+    {
+      "role": "link",
+      "name": "GO",
+      "description": "Go Tutorial",
+      "keyshortcuts": "1283"
+    },
+    {
+      "role": "link",
+      "name": "KOTLIN",
+      "description": "Kotlin Tutorial",
+      "keyshortcuts": "1284"
+    },
+    {
+      "role": "link",
+      "name": "SASS",
+      "description": "Sass Tutorial",
+      "keyshortcuts": "1285"
+    },
+    {
+      "role": "link",
+      "name": "VUE",
+      "description": "Vue.js Tutorial",
+      "keyshortcuts": "1286"
+    },
+    {
+      "role": "link",
+      "name": "DSA",
+      "description": "DSA Tutorial",
+      "keyshortcuts": "1287"
+    },
+    {
+      "role": "link",
+      "name": "GEN AI",
+      "description": "Gen A.I. Tutorial",
+      "keyshortcuts": "1288"
+    },
+    {
+      "role": "link",
+      "name": "SCIPY",
+      "description": "SciPy Tutorial",
+      "keyshortcuts": "1289"
+    },
+    {
+      "role": "link",
+      "name": "AWS",
+      "description": "AWS Tutorial",
+      "keyshortcuts": "1290"
+    },
+    {
+      "role": "link",
+      "name": "CYBERSECURITY",
+      "description": "Cyber security Tutorial",
+      "keyshortcuts": "1291"
+    },
+    {
+      "role": "link",
+      "name": "DATA SCIENCE",
+      "description": "Data science Tutorial",
+      "keyshortcuts": "1292"
+    },
+    {
+      "role": "text",
+      "name": "\u00a0\u00a0\u00a0\u00a0\u00a0\u276f\u00a0\u00a0\u00a0"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Tutorial",
+      "keyshortcuts": "1301",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "HTML HOME",
+      "keyshortcuts": "1303"
+    },
+    {
+      "role": "link",
+      "name": "HTML Introduction",
+      "keyshortcuts": "1304"
+    },
+    {
+      "role": "link",
+      "name": "HTML Editors",
+      "keyshortcuts": "1305"
+    },
+    {
+      "role": "link",
+      "name": "HTML Basic",
+      "keyshortcuts": "1306"
+    },
+    {
+      "role": "link",
+      "name": "HTML Elements",
+      "keyshortcuts": "1307"
+    },
+    {
+      "role": "link",
+      "name": "HTML Attributes",
+      "keyshortcuts": "1308"
+    },
+    {
+      "role": "link",
+      "name": "HTML Headings",
+      "keyshortcuts": "1309"
+    },
+    {
+      "role": "link",
+      "name": "HTML Paragraphs",
+      "keyshortcuts": "1310"
+    },
+    {
+      "role": "link",
+      "name": "HTML Styles",
+      "keyshortcuts": "1311"
+    },
+    {
+      "role": "link",
+      "name": "HTML Formatting",
+      "keyshortcuts": "1312"
+    },
+    {
+      "role": "link",
+      "name": "HTML Quotations",
+      "keyshortcuts": "1313"
+    },
+    {
+      "role": "link",
+      "name": "HTML Comments",
+      "keyshortcuts": "1314"
+    },
+    {
+      "role": "link",
+      "name": "HTML Colors \ue809",
+      "keyshortcuts": "1315"
+    },
+    {
+      "role": "link",
+      "name": "HTML CSS",
+      "keyshortcuts": "1322"
+    },
+    {
+      "role": "link",
+      "name": "HTML Links \ue809",
+      "keyshortcuts": "1323"
+    },
+    {
+      "role": "link",
+      "name": "HTML Images \ue809",
+      "keyshortcuts": "1329"
+    },
+    {
+      "role": "link",
+      "name": "HTML Favicon",
+      "keyshortcuts": "1336"
+    },
+    {
+      "role": "link",
+      "name": "HTML Page Title",
+      "keyshortcuts": "1337"
+    },
+    {
+      "role": "link",
+      "name": "HTML Tables \ue809",
+      "keyshortcuts": "1338"
+    },
+    {
+      "role": "link",
+      "name": "HTML Lists \ue809",
+      "keyshortcuts": "1349"
+    },
+    {
+      "role": "link",
+      "name": "HTML Block & Inline",
+      "keyshortcuts": "1356"
+    },
+    {
+      "role": "link",
+      "name": "HTML Div",
+      "keyshortcuts": "1357"
+    },
+    {
+      "role": "link",
+      "name": "HTML Classes",
+      "keyshortcuts": "1358"
+    },
+    {
+      "role": "link",
+      "name": "HTML Id",
+      "keyshortcuts": "1359"
+    },
+    {
+      "role": "link",
+      "name": "HTML Iframes",
+      "keyshortcuts": "1360"
+    },
+    {
+      "role": "link",
+      "name": "HTML JavaScript",
+      "keyshortcuts": "1361"
+    },
+    {
+      "role": "link",
+      "name": "HTML File Paths",
+      "keyshortcuts": "1362"
+    },
+    {
+      "role": "link",
+      "name": "HTML Head",
+      "keyshortcuts": "1363"
+    },
+    {
+      "role": "link",
+      "name": "HTML Layout",
+      "keyshortcuts": "1364"
+    },
+    {
+      "role": "link",
+      "name": "HTML Responsive",
+      "keyshortcuts": "1365"
+    },
+    {
+      "role": "link",
+      "name": "HTML Computercode",
+      "keyshortcuts": "1366"
+    },
+    {
+      "role": "link",
+      "name": "HTML Semantics",
+      "keyshortcuts": "1367"
+    },
+    {
+      "role": "link",
+      "name": "HTML Style Guide",
+      "keyshortcuts": "1368"
+    },
+    {
+      "role": "link",
+      "name": "HTML Entities",
+      "keyshortcuts": "1369"
+    },
+    {
+      "role": "link",
+      "name": "HTML Symbols",
+      "keyshortcuts": "1370"
+    },
+    {
+      "role": "link",
+      "name": "HTML Emojis",
+      "keyshortcuts": "1371"
+    },
+    {
+      "role": "link",
+      "name": "HTML Charsets",
+      "keyshortcuts": "1372"
+    },
+    {
+      "role": "link",
+      "name": "HTML URL Encode",
+      "keyshortcuts": "1373"
+    },
+    {
+      "role": "link",
+      "name": "HTML vs. XHTML",
+      "keyshortcuts": "1374"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1375"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Forms",
+      "keyshortcuts": "1376",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "HTML Forms",
+      "keyshortcuts": "1378"
+    },
+    {
+      "role": "link",
+      "name": "HTML Form Attributes",
+      "keyshortcuts": "1379"
+    },
+    {
+      "role": "link",
+      "name": "HTML Form Elements",
+      "keyshortcuts": "1380"
+    },
+    {
+      "role": "link",
+      "name": "HTML Input Types",
+      "keyshortcuts": "1381"
+    },
+    {
+      "role": "link",
+      "name": "HTML Input Attributes",
+      "keyshortcuts": "1382"
+    },
+    {
+      "role": "link",
+      "name": "Input Form Attributes",
+      "keyshortcuts": "1383"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1384"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Graphics",
+      "keyshortcuts": "1385",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "HTML Canvas",
+      "keyshortcuts": "1387"
+    },
+    {
+      "role": "link",
+      "name": "HTML SVG",
+      "keyshortcuts": "1388"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1389"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Media",
+      "keyshortcuts": "1390",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "HTML Media",
+      "keyshortcuts": "1392"
+    },
+    {
+      "role": "link",
+      "name": "HTML Video",
+      "keyshortcuts": "1393"
+    },
+    {
+      "role": "link",
+      "name": "HTML Audio",
+      "keyshortcuts": "1394"
+    },
+    {
+      "role": "link",
+      "name": "HTML Plug-ins",
+      "keyshortcuts": "1395"
+    },
+    {
+      "role": "link",
+      "name": "HTML YouTube",
+      "keyshortcuts": "1396"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1397"
+    },
+    {
+      "role": "heading",
+      "name": "HTML APIs",
+      "keyshortcuts": "1398",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "HTML Geolocation",
+      "keyshortcuts": "1400"
+    },
+    {
+      "role": "link",
+      "name": "HTML Drag/Drop",
+      "keyshortcuts": "1401"
+    },
+    {
+      "role": "link",
+      "name": "HTML Web Storage",
+      "keyshortcuts": "1402"
+    },
+    {
+      "role": "link",
+      "name": "HTML Web Workers",
+      "keyshortcuts": "1403"
+    },
+    {
+      "role": "link",
+      "name": "HTML SSE",
+      "keyshortcuts": "1404"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1405"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Examples",
+      "keyshortcuts": "1406",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "HTML Examples",
+      "keyshortcuts": "1408"
+    },
+    {
+      "role": "link",
+      "name": "HTML Editor",
+      "keyshortcuts": "1409"
+    },
+    {
+      "role": "link",
+      "name": "HTML Quiz",
+      "keyshortcuts": "1410"
+    },
+    {
+      "role": "link",
+      "name": "HTML Exercises",
+      "keyshortcuts": "1411"
+    },
+    {
+      "role": "link",
+      "name": "HTML Website",
+      "keyshortcuts": "1412"
+    },
+    {
+      "role": "link",
+      "name": "HTML Interview Prep",
+      "keyshortcuts": "1413"
+    },
+    {
+      "role": "link",
+      "name": "HTML Bootcamp",
+      "keyshortcuts": "1414"
+    },
+    {
+      "role": "link",
+      "name": "HTML Certificate",
+      "keyshortcuts": "1415"
+    },
+    {
+      "role": "link",
+      "name": "HTML Summary",
+      "keyshortcuts": "1416"
+    },
+    {
+      "role": "link",
+      "name": "HTML Accessibility",
+      "keyshortcuts": "1417"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1418"
+    },
+    {
+      "role": "heading",
+      "name": "HTML References",
+      "keyshortcuts": "1419",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "HTML Tag List",
+      "keyshortcuts": "1421"
+    },
+    {
+      "role": "link",
+      "name": "HTML Attributes",
+      "keyshortcuts": "1422"
+    },
+    {
+      "role": "link",
+      "name": "HTML Global Attributes",
+      "keyshortcuts": "1423"
+    },
+    {
+      "role": "link",
+      "name": "HTML Browser Support",
+      "keyshortcuts": "1424"
+    },
+    {
+      "role": "link",
+      "name": "HTML Events",
+      "keyshortcuts": "1425"
+    },
+    {
+      "role": "link",
+      "name": "HTML Colors",
+      "keyshortcuts": "1426"
+    },
+    {
+      "role": "link",
+      "name": "HTML Canvas",
+      "keyshortcuts": "1427"
+    },
+    {
+      "role": "link",
+      "name": "HTML Audio/Video",
+      "keyshortcuts": "1428"
+    },
+    {
+      "role": "link",
+      "name": "HTML Doctypes",
+      "keyshortcuts": "1429"
+    },
+    {
+      "role": "link",
+      "name": "HTML Character Sets",
+      "keyshortcuts": "1430"
+    },
+    {
+      "role": "link",
+      "name": "HTML URL Encode",
+      "keyshortcuts": "1431"
+    },
+    {
+      "role": "link",
+      "name": "HTML Lang Codes",
+      "keyshortcuts": "1432"
+    },
+    {
+      "role": "link",
+      "name": "HTTP Messages",
+      "keyshortcuts": "1433"
+    },
+    {
+      "role": "link",
+      "name": "HTTP Methods",
+      "keyshortcuts": "1434"
+    },
+    {
+      "role": "link",
+      "name": "PX to EM Converter",
+      "keyshortcuts": "1435"
+    },
+    {
+      "role": "link",
+      "name": "Keyboard Shortcuts",
+      "keyshortcuts": "1436"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1437"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1438"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "keyshortcuts": "1445"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Tutorial",
+      "keyshortcuts": "1446",
+      "level": 1
+    },
+    {
+      "role": "link",
+      "name": "\u276e Home",
+      "keyshortcuts": "1449"
+    },
+    {
+      "role": "link",
+      "name": "Next \u276f",
+      "keyshortcuts": "1450"
+    },
+    {
+      "role": "text",
+      "name": "HTML is the standard markup language for Web pages."
+    },
+    {
+      "role": "text",
+      "name": "With HTML you can create your own Website."
+    },
+    {
+      "role": "text",
+      "name": "HTML is easy to learn - You will enjoy it!"
+    },
+    {
+      "role": "link",
+      "name": "Study our free HTML Tutorial \u00bb",
+      "keyshortcuts": "1455"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1456"
+    },
+    {
+      "role": "heading",
+      "name": "Easy Learning with HTML \"Try it Yourself\"",
+      "keyshortcuts": "1458",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "With our \"Try it Yourself\" editor, you can edit the HTML code and view the result:"
+    },
+    {
+      "role": "heading",
+      "name": "Example",
+      "keyshortcuts": "1461",
+      "level": 3
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "!DOCTYPE"
+    },
+    {
+      "role": "text",
+      "name": " html"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1467"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "html"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1471"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "head"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1475"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "title"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "text",
+      "name": "Page Title"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "/title"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1482"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "/head"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1486"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "body"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1490"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1491"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "h1"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "text",
+      "name": "This is a Heading"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "/h1"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1498"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "p"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "text",
+      "name": "This is a paragraph."
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "/p"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1505"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1506"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "/body"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1510"
+    },
+    {
+      "role": "text",
+      "name": "<"
+    },
+    {
+      "role": "text",
+      "name": "/html"
+    },
+    {
+      "role": "text",
+      "name": ">"
+    },
+    {
+      "role": "link",
+      "name": "Try it Yourself \u00bb",
+      "keyshortcuts": "1514"
+    },
+    {
+      "role": "text",
+      "name": "Click on the \"Try it Yourself\" button to see how it works."
+    },
+    {
+      "role": "heading",
+      "name": "HTML Examples",
+      "keyshortcuts": "1518",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "In this HTML tutorial, you will find more than 200 examples. With our online \"Try it Yourself\" editor, you can edit and test each example yourself!"
+    },
+    {
+      "role": "link",
+      "name": "Go to HTML Examples!",
+      "keyshortcuts": "1521"
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "keyshortcuts": "1527"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Exercises",
+      "keyshortcuts": "1529",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "This HTML tutorial also contains nearly 100 HTML exercises."
+    },
+    {
+      "role": "heading",
+      "name": "Test Yourself With Exercises",
+      "keyshortcuts": "1532",
+      "level": 2
+    },
+    {
+      "role": "heading",
+      "name": "Exercise:",
+      "keyshortcuts": "1534",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Add a \"tooltip\" to the paragraph below with the text \"About W3Schools\"."
+    },
+    {
+      "role": "text",
+      "name": "<p "
+    },
+    {
+      "role": "textbox",
+      "name": "",
+      "keyshortcuts": "1537"
+    },
+    {
+      "role": "text",
+      "name": "=\"About W3Schools\">W3Schools is a web developer's site.</p>"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1538"
+    },
+    {
+      "role": "button",
+      "name": "Submit Answer \u00bb",
+      "keyshortcuts": "1539"
+    },
+    {
+      "role": "link",
+      "name": "Start the Exercise",
+      "keyshortcuts": "1541"
+    },
+    {
+      "role": "heading",
+      "name": "HTML Quiz Test",
+      "keyshortcuts": "1543",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Test your HTML skills with our HTML Quiz!"
+    },
+    {
+      "role": "link",
+      "name": "Start HTML Quiz!",
+      "keyshortcuts": "1546"
+    },
+    {
+      "role": "heading",
+      "name": "My Learning",
+      "keyshortcuts": "1549",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Track your progress with the free \"My Learning\" program here at W3Schools."
+    },
+    {
+      "role": "text",
+      "name": "Log in to your account, and start earning points!"
+    },
+    {
+      "role": "text",
+      "name": "This is an optional feature. You can study at W3Schools without using My Learning."
+    },
+    {
+      "role": "link",
+      "name": "Track your progress with at W3Schools.com",
+      "keyshortcuts": "1553"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1557"
+    },
+    {
+      "role": "heading",
+      "name": "HTML References",
+      "keyshortcuts": "1559",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "At W3Schools you will find complete references about HTML elements, attributes, events, color names, entities, character-sets, URL encoding, language codes, HTTP messages, browser support, and more:"
+    },
+    {
+      "role": "link",
+      "name": "HTML Elements",
+      "keyshortcuts": "1563"
+    },
+    {
+      "role": "link",
+      "name": "Browser Support",
+      "keyshortcuts": "1565"
+    },
+    {
+      "role": "link",
+      "name": "Attributes",
+      "keyshortcuts": "1567"
+    },
+    {
+      "role": "link",
+      "name": "Global Attributes",
+      "keyshortcuts": "1569"
+    },
+    {
+      "role": "link",
+      "name": "Event Attributes",
+      "keyshortcuts": "1571"
+    },
+    {
+      "role": "link",
+      "name": "Color Names",
+      "keyshortcuts": "1573"
+    },
+    {
+      "role": "link",
+      "name": "Canvas",
+      "keyshortcuts": "1575"
+    },
+    {
+      "role": "link",
+      "name": "Audio/Video DOM",
+      "keyshortcuts": "1577"
+    },
+    {
+      "role": "link",
+      "name": "Character Sets",
+      "keyshortcuts": "1579"
+    },
+    {
+      "role": "link",
+      "name": "URL Encoding",
+      "keyshortcuts": "1581"
+    },
+    {
+      "role": "link",
+      "name": "Language Codes",
+      "keyshortcuts": "1583"
+    },
+    {
+      "role": "link",
+      "name": "Country Codes",
+      "keyshortcuts": "1585"
+    },
+    {
+      "role": "link",
+      "name": "HTTP Messages",
+      "keyshortcuts": "1587"
+    },
+    {
+      "role": "link",
+      "name": "Px to Em Converter",
+      "keyshortcuts": "1589"
+    },
+    {
+      "role": "link",
+      "name": "Keyboard Shortcuts",
+      "keyshortcuts": "1591"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1592"
+    },
+    {
+      "role": "heading",
+      "name": "Kickstart your career",
+      "keyshortcuts": "1595",
+      "level": 2
+    },
+    {
+      "role": "text",
+      "name": "Get certified by completing "
+    },
+    {
+      "role": "text",
+      "name": "the"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "text",
+      "name": "HTML"
+    },
+    {
+      "role": "text",
+      "name": " course"
+    },
+    {
+      "role": "link",
+      "name": "Get certified",
+      "keyshortcuts": "1599"
+    },
+    {
+      "role": "text",
+      "name": "w"
+    },
+    {
+      "role": "text",
+      "name": "3"
+    },
+    {
+      "role": "text",
+      "name": "s"
+    },
+    {
+      "role": "text",
+      "name": "c"
+    },
+    {
+      "role": "text",
+      "name": "h"
+    },
+    {
+      "role": "text",
+      "name": "o"
+    },
+    {
+      "role": "text",
+      "name": "o"
+    },
+    {
+      "role": "text",
+      "name": "l"
+    },
+    {
+      "role": "text",
+      "name": "s"
+    },
+    {
+      "role": "text",
+      "name": "C"
+    },
+    {
+      "role": "text",
+      "name": "E"
+    },
+    {
+      "role": "text",
+      "name": "R"
+    },
+    {
+      "role": "text",
+      "name": "T"
+    },
+    {
+      "role": "text",
+      "name": "I"
+    },
+    {
+      "role": "text",
+      "name": "F"
+    },
+    {
+      "role": "text",
+      "name": "I"
+    },
+    {
+      "role": "text",
+      "name": "E"
+    },
+    {
+      "role": "text",
+      "name": "D"
+    },
+    {
+      "role": "text",
+      "name": "."
+    },
+    {
+      "role": "text",
+      "name": "2"
+    },
+    {
+      "role": "text",
+      "name": "0"
+    },
+    {
+      "role": "text",
+      "name": "2"
+    },
+    {
+      "role": "text",
+      "name": "4"
+    },
+    {
+      "role": "heading",
+      "name": "Video: HTML for Beginners",
+      "keyshortcuts": "1639",
+      "level": 2
+    },
+    {
+      "role": "link",
+      "name": "Tutorial on YouTube Tutorial on YouTube",
+      "keyshortcuts": "1640"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1649"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1651"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1652"
+    },
+    {
+      "role": "link",
+      "name": "\u276e Home",
+      "keyshortcuts": "1654"
+    },
+    {
+      "role": "link",
+      "name": "Next \u276f",
+      "keyshortcuts": "1655"
+    },
+    {
+      "role": "text",
+      "name": "\u00a0"
+    },
+    {
+      "role": "text",
+      "name": "W3schools Pathfinder"
+    },
+    {
+      "role": "text",
+      "name": "Track your progress - it's free!"
+    },
+    {
+      "role": "text",
+      "name": "\u00a0"
+    },
+    {
+      "role": "text",
+      "name": "  "
+    },
+    {
+      "role": "link",
+      "name": "Login to your account",
+      "description": "Login to your account",
+      "keyshortcuts": "1679"
+    },
+    {
+      "role": "link",
+      "name": "Sign Up to Improve Your Learning Experience",
+      "description": "Sign Up to Improve Your Learning Experience",
+      "keyshortcuts": "1680"
+    },
+    {
+      "role": "text",
+      "name": "  "
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "keyshortcuts": "1687"
+    },
+    {
+      "role": "link",
+      "name": "Get Certified",
+      "keyshortcuts": "1690"
+    },
+    {
+      "role": "link",
+      "name": "COLOR PICKER",
+      "keyshortcuts": "1698"
+    },
+    {
+      "role": "link",
+      "name": "colorpicker",
+      "keyshortcuts": "1699"
+    },
+    {
+      "role": "link",
+      "name": "\ue83f",
+      "description": "W3Schools on YouTube",
+      "keyshortcuts": "1705"
+    },
+    {
+      "role": "link",
+      "name": "\uf30c",
+      "description": "W3Schools on LinkedIn",
+      "keyshortcuts": "1707"
+    },
+    {
+      "role": "link",
+      "name": "\ue807",
+      "description": "Join the W3schools community on Discord",
+      "keyshortcuts": "1709"
+    },
+    {
+      "role": "link",
+      "name": "\ue806",
+      "description": "W3Schools on Facebook",
+      "keyshortcuts": "1711"
+    },
+    {
+      "role": "link",
+      "name": "\uf16d",
+      "description": "W3Schools on Instagram",
+      "keyshortcuts": "1713"
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "keyshortcuts": "1724"
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "Iframe",
+      "name": "Advertisement",
+      "description": "3rd party ad content",
+      "keyshortcuts": "1734"
+    },
+    {
+      "role": "text",
+      "name": "ADVERTISEMENT"
+    },
+    {
+      "role": "link",
+      "name": "W3Schools.com",
+      "keyshortcuts": "1744"
+    },
+    {
+      "role": "link",
+      "name": "PLUS",
+      "description": "Become a PLUS user and unlock powerful features",
+      "keyshortcuts": "1747"
+    },
+    {
+      "role": "link",
+      "name": "SPACES",
+      "description": "Get your own website with W3Schools Spaces",
+      "keyshortcuts": "1749"
+    },
+    {
+      "role": "link",
+      "name": "GET CERTIFIED",
+      "description": "Document your knowledge by getting certified",
+      "keyshortcuts": "1751"
+    },
+    {
+      "role": "link",
+      "name": "FOR TEACHERS",
+      "description": "Contact us about W3Schools Academy for educational institutions",
+      "keyshortcuts": "1753"
+    },
+    {
+      "role": "link",
+      "name": "FOR BUSINESS",
+      "description": "Contact us about W3Schools Academy for your organization",
+      "keyshortcuts": "1755"
+    },
+    {
+      "role": "link",
+      "name": "CONTACT US",
+      "description": "Contact us about sales or errors",
+      "keyshortcuts": "1757"
+    },
+    {
+      "role": "heading",
+      "name": "Top Tutorials",
+      "keyshortcuts": "1769",
+      "level": 5
+    },
+    {
+      "role": "link",
+      "name": "HTML Tutorial",
+      "keyshortcuts": "1770"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1771"
+    },
+    {
+      "role": "link",
+      "name": "CSS Tutorial",
+      "keyshortcuts": "1772"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1773"
+    },
+    {
+      "role": "link",
+      "name": "JavaScript Tutorial",
+      "keyshortcuts": "1774"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1775"
+    },
+    {
+      "role": "link",
+      "name": "How To Tutorial",
+      "keyshortcuts": "1776"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1777"
+    },
+    {
+      "role": "link",
+      "name": "SQL Tutorial",
+      "keyshortcuts": "1778"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1779"
+    },
+    {
+      "role": "link",
+      "name": "Python Tutorial",
+      "keyshortcuts": "1780"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1781"
+    },
+    {
+      "role": "link",
+      "name": "W3.CSS Tutorial",
+      "keyshortcuts": "1782"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1783"
+    },
+    {
+      "role": "link",
+      "name": "Bootstrap Tutorial",
+      "keyshortcuts": "1784"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1785"
+    },
+    {
+      "role": "link",
+      "name": "PHP Tutorial",
+      "keyshortcuts": "1786"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1787"
+    },
+    {
+      "role": "link",
+      "name": "Java Tutorial",
+      "keyshortcuts": "1788"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1789"
+    },
+    {
+      "role": "link",
+      "name": "C++ Tutorial",
+      "keyshortcuts": "1790"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1791"
+    },
+    {
+      "role": "link",
+      "name": "jQuery Tutorial",
+      "keyshortcuts": "1792"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1793"
+    },
+    {
+      "role": "heading",
+      "name": "Top References",
+      "keyshortcuts": "1795",
+      "level": 5
+    },
+    {
+      "role": "link",
+      "name": "HTML Reference",
+      "keyshortcuts": "1796"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1797"
+    },
+    {
+      "role": "link",
+      "name": "CSS Reference",
+      "keyshortcuts": "1798"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1799"
+    },
+    {
+      "role": "link",
+      "name": "JavaScript Reference",
+      "keyshortcuts": "1800"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1801"
+    },
+    {
+      "role": "link",
+      "name": "SQL Reference",
+      "keyshortcuts": "1802"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1803"
+    },
+    {
+      "role": "link",
+      "name": "Python Reference",
+      "keyshortcuts": "1804"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1805"
+    },
+    {
+      "role": "link",
+      "name": "W3.CSS Reference",
+      "keyshortcuts": "1806"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1807"
+    },
+    {
+      "role": "link",
+      "name": "Bootstrap Reference",
+      "keyshortcuts": "1808"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1809"
+    },
+    {
+      "role": "link",
+      "name": "PHP Reference",
+      "keyshortcuts": "1810"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1811"
+    },
+    {
+      "role": "link",
+      "name": "HTML Colors",
+      "keyshortcuts": "1812"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1813"
+    },
+    {
+      "role": "link",
+      "name": "Java Reference",
+      "keyshortcuts": "1814"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1815"
+    },
+    {
+      "role": "link",
+      "name": "Angular Reference",
+      "keyshortcuts": "1816"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1817"
+    },
+    {
+      "role": "link",
+      "name": "jQuery Reference",
+      "keyshortcuts": "1818"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1819"
+    },
+    {
+      "role": "heading",
+      "name": "Top Examples",
+      "keyshortcuts": "1821",
+      "level": 5
+    },
+    {
+      "role": "link",
+      "name": "HTML Examples",
+      "keyshortcuts": "1822"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1823"
+    },
+    {
+      "role": "link",
+      "name": "CSS Examples",
+      "keyshortcuts": "1824"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1825"
+    },
+    {
+      "role": "link",
+      "name": "JavaScript Examples",
+      "keyshortcuts": "1826"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1827"
+    },
+    {
+      "role": "link",
+      "name": "How To Examples",
+      "keyshortcuts": "1828"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1829"
+    },
+    {
+      "role": "link",
+      "name": "SQL Examples",
+      "keyshortcuts": "1830"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1831"
+    },
+    {
+      "role": "link",
+      "name": "Python Examples",
+      "keyshortcuts": "1832"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1833"
+    },
+    {
+      "role": "link",
+      "name": "W3.CSS Examples",
+      "keyshortcuts": "1834"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1835"
+    },
+    {
+      "role": "link",
+      "name": "Bootstrap Examples",
+      "keyshortcuts": "1836"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1837"
+    },
+    {
+      "role": "link",
+      "name": "PHP Examples",
+      "keyshortcuts": "1838"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1839"
+    },
+    {
+      "role": "link",
+      "name": "Java Examples",
+      "keyshortcuts": "1840"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1841"
+    },
+    {
+      "role": "link",
+      "name": "XML Examples",
+      "keyshortcuts": "1842"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1843"
+    },
+    {
+      "role": "link",
+      "name": "jQuery Examples",
+      "keyshortcuts": "1844"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1845"
+    },
+    {
+      "role": "link",
+      "name": "Get Certified",
+      "keyshortcuts": "1847"
+    },
+    {
+      "role": "link",
+      "name": "HTML Certificate",
+      "keyshortcuts": "1849"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1850"
+    },
+    {
+      "role": "link",
+      "name": "CSS Certificate",
+      "keyshortcuts": "1851"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1852"
+    },
+    {
+      "role": "link",
+      "name": "JavaScript Certificate",
+      "keyshortcuts": "1853"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1854"
+    },
+    {
+      "role": "link",
+      "name": "Front End Certificate",
+      "keyshortcuts": "1855"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1856"
+    },
+    {
+      "role": "link",
+      "name": "SQL Certificate",
+      "keyshortcuts": "1857"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1858"
+    },
+    {
+      "role": "link",
+      "name": "Python Certificate",
+      "keyshortcuts": "1859"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1860"
+    },
+    {
+      "role": "link",
+      "name": "PHP Certificate",
+      "keyshortcuts": "1861"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1862"
+    },
+    {
+      "role": "link",
+      "name": "jQuery Certificate",
+      "keyshortcuts": "1863"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1864"
+    },
+    {
+      "role": "link",
+      "name": "Java Certificate",
+      "keyshortcuts": "1865"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1866"
+    },
+    {
+      "role": "link",
+      "name": "C++ Certificate",
+      "keyshortcuts": "1867"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1868"
+    },
+    {
+      "role": "link",
+      "name": "C# Certificate",
+      "keyshortcuts": "1869"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1870"
+    },
+    {
+      "role": "link",
+      "name": "XML Certificate",
+      "keyshortcuts": "1871"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1872"
+    },
+    {
+      "role": "link",
+      "name": "\ue83f",
+      "description": "W3Schools on YouTube",
+      "keyshortcuts": "1874"
+    },
+    {
+      "role": "link",
+      "name": "\uf30c",
+      "description": "W3Schools on LinkedIn",
+      "keyshortcuts": "1876"
+    },
+    {
+      "role": "link",
+      "name": "\ue807",
+      "description": "Join the W3schools community on Discord",
+      "keyshortcuts": "1878"
+    },
+    {
+      "role": "link",
+      "name": "\ue806",
+      "description": "W3Schools on Facebook",
+      "keyshortcuts": "1880"
+    },
+    {
+      "role": "link",
+      "name": "\uf16d",
+      "description": "W3Schools on Instagram",
+      "keyshortcuts": "1882"
+    },
+    {
+      "role": "link",
+      "name": "FORUM",
+      "description": "Forum",
+      "keyshortcuts": "1885"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "link",
+      "name": "ABOUT",
+      "description": "About W3Schools",
+      "keyshortcuts": "1886"
+    },
+    {
+      "role": "text",
+      "name": " "
+    },
+    {
+      "role": "link",
+      "name": "ACADEMY",
+      "description": "Contact us about W3Schools Academy for educational institutions and organizations",
+      "keyshortcuts": "1887"
+    },
+    {
+      "role": "text",
+      "name": "W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning."
+    },
+    {
+      "role": "text",
+      "name": " Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness"
+    },
+    {
+      "role": "text",
+      "name": " of all content. While using W3Schools, you agree to have read and accepted our "
+    },
+    {
+      "role": "link",
+      "name": "terms of use",
+      "keyshortcuts": "1891"
+    },
+    {
+      "role": "text",
+      "name": ", "
+    },
+    {
+      "role": "link",
+      "name": "cookie and privacy policy",
+      "keyshortcuts": "1892"
+    },
+    {
+      "role": "text",
+      "name": "."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1893"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1894"
+    },
+    {
+      "role": "link",
+      "name": "Copyright 1999-2024",
+      "keyshortcuts": "1895"
+    },
+    {
+      "role": "text",
+      "name": " by Refsnes Data. All Rights Reserved. "
+    },
+    {
+      "role": "link",
+      "name": "W3Schools is Powered by W3.CSS",
+      "keyshortcuts": "1896"
+    },
+    {
+      "role": "text",
+      "name": "."
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1897"
+    },
+    {
+      "role": "LineBreak",
+      "name": "\n",
+      "keyshortcuts": "1898"
+    }
+  ]
+}

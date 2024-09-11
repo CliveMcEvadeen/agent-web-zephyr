@@ -1,0 +1,11 @@
+Personal Info:
+First Name: clive
+Last Name: Doe
+Date of birth: 10/10/1950
+Occupation: Software Engineer
+Address: Kampala-Uganda
+Email: clivekakeeto47@gmail.com
+Phone Number: 0753822858
+Here are some of my preferences:
+Shopping Preferences: www.jumia.com
+Favorite news source: www.bbc.com
